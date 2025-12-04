@@ -7,94 +7,79 @@
 
 ---
 
-## Intodução
+## Apresentação do problema
 
+ O consumo de energia elétrica em ambientes corporativos representa uma parcela significativa dos custos operacionais e do impacto ambiental das empresas. Escritórios e call centers, por operarem longas jornadas e utilizarem sistemas intensivos de climatização, iluminação e equipamentos eletrônicos, tendem a apresentar altos níveis de consumo e, frequentemente, desperdícios não percebidos.
+ A falta de monitoramento adequado, a operação de aparelhos fora do horário de expediente, temperaturas inadequadas no ar-condicionado e o uso contínuo de equipamentos em standby contribuem para um uso ineficiente de energia. Esse cenário gera despesas elevadas e aumenta a emissão de CO₂ associada ao consumo elétrico.
+ Diante disso, torna-se fundamental analisar hábitos de consumo, identificar desperdícios e propor soluções que reduzam custos, aumentem a eficiência e contribuam para práticas sustentáveis no ambiente de trabalho. Este estudo apresenta uma simulação completa de dois ambientes corporativos — um escritório comercial e um call center — avaliando consumo energético, estimando desperdícios e demonstrando os efeitos de medidas de otimização combinadas com a possível implementação de energia solar fotovoltaica.
+
+## Introdução
+
+1. Introdução
 Este trabalho tem como objetivo analisar o consumo energético de dois ambientes — um escritório comercial e um call center — e propor soluções voltadas para eficiência e sustentabilidade, alinhadas ao futuro do trabalho.
- Todos os dados utilizados neste estudo são simulados, incluindo valores de consumo, custos e distribuição por categoria de uso. A simulação foi realizada com base em padrões de consumo disponibilizados pela Neoenergia e referências típicas de ambientes corporativos.
+Todos os dados utilizados neste estudo são simulados, incluindo valores de consumo, custos e distribuição por categoria de uso. A simulação foi realizada com base em padrões de consumo disponibilizados pela Neoenergia e referências típicas de ambientes corporativos.
+
+ 
 
 ---
 
 ## 2. Metodologia
 
 ##2.1 Fonte e natureza dos dados
-Todos os dados são simulados, incluindo:
-
-consumo total mensal (kWh)
-custo em R$
-
-demanda mensal
-
-distribuição do consumo por equipamentos (ar-condicionado, iluminação, computadores etc.)
+●Todos os dados são simulados, incluindo:
+○consumo total mensal (kWh)
+○custo em R$
+○demanda mensal
+○distribuição do consumo por equipamentos (ar-condicionado, iluminação, computadores etc.)
 
 A distribuição energética foi criada com base nas proporções médias apresentadas por distribuidoras como a Neoenergia, que disponibiliza percentuais típicos para ambientes corporativos.
 
 ## 2.2 Processo de simulação
-Definiu-se um consumo total coerente com ambientes reais.
+1.Definiu-se um consumo total coerente com ambientes reais.
+2.Aplicou-se uma distribuição típica observada em escritórios e call centers.
+3.Simulou-se desperdícios a partir de:
 
-Aplicou-se uma distribuição típica observada em escritórios e call centers.
-
-Simulou-se desperdícios a partir de:
-
-horas extras de funcionamento
-
-iluminação ligada sem necessidade
-
-climatização excessiva
+○horas extras de funcionamento
+○iluminação ligada sem necessidade
+○climatização excessiva
 
 Calculou-se o ganho econômico ao corrigir esses desperdícios.
 
 ##Dados do Estudo
 
 ##3.1 Escritório Comercial (dados simulados)
-Consumo mensal total: 620 kWh
+●Consumo mensal total: 620 kWh
+●Custo mensal estimado: R$ 463,60
+●Distribuição simulada:
 
-Custo mensal estimado: R$ 463,60
-
-Distribuição simulada:
-
-Ar-condicionado: 40%
-
-Iluminação: 25%
-
-Computadores e monitores: 20%
-
+○Ar-condicionado: 40%
+○Iluminação: 25%
+○Computadores e monitores: 20%
 Outros equipamentos: 15%
 
-Identificação dos desperdícios (simulados):
-Ar-condicionado operando 1h além do necessário diariamente → 28 kWh/mês de desperdício.
-
-Iluminação ligada em áreas vazias durante 2h → 22 kWh/mês.
-
-Total de desperdício identificado: 50 kWh/mês
-Representa 8% do consumo total.
 
 ##3.2 Call Center (dados simulados)
-Consumo mensal total: 1.250 kWh
+●Consumo mensal total: 1.250 kWh
+●Custo mensal estimado: R$ 935,00
+●Distribuição simulada:
 
-Custo mensal estimado: R$ 935,00
+○Ar-condicionado: 55%
+○Computadores/headsets: 30%
 
-Distribuição simulada:
-
-Ar-condicionado: 55%
-
-Computadores/headsets: 30%
-
-Iluminação: 10%
-
-Outros: 5%
+○Iluminação: 10%
+○Outros: 5%
 
 Identificação dos desperdícios (simulados):
-Climatização muito abaixo da temperatura recomendada → 70 kWh/mês.
-
-Computadores ligados fora do expediente → 25 kWh/mês.
+●Climatização muito abaixo da temperatura recomendada → 70 kWh/mês.
+●Computadores ligados fora do expediente → 25 kWh/mês.
 
 Total de desperdício identificado: 95 kWh/mês
 Representa 7,6% do consumo total.
 
-
 ###  Proposta de Solução
 A solução proposta se enquadra na Opção A — Análise de Dados, do regulamento.
 Medidas sugeridas:
+
 Ajuste automático da temperatura para 23–24°C.
 
 Instalação de sensores de presença para iluminação.
@@ -105,43 +90,27 @@ Monitoramento contínuo
 
 
 ## Ganhos Ambientais e Econômicos (Simulados)
-Escritório Comercial:
+Escritório Comercial
+●Redução de 50 kWh/mês → economia de R$ 37,40
+●Redução anual: 600 kWh
+●Equivalente a evitar ~55 kg de CO₂/ano
 
+Call Center
+●Redução de 95 kWh/mês → economia de R$ 71,00
+●Redução anual: 1.140 kWh
+●Equivalente a evitar ~105 kg de CO₂/ano
 
-Redução de 50 kWh/mês → economia de R$ 37,40
-
-Redução anual: 600 kWh
-
-Equivalente a evitar ~55 kg de CO₂/ano
-
-Call Center:
-
-
-Redução de 95 kWh/mês → economia de R$ 71,00
-
-Redução anual: 1.140 kWh
-
-Equivalente a evitar ~105 kg de CO₂/ano
 
 ---
 
 ## Conexão com o Futuro do Trabalho
 
 A solução melhora ambientes corporativos ao:
-
-
-reduzir gastos operacionais;
-
-estimular rotinas mais eficientes;
-
-
-aumentar o conforto térmico;
-
-
-promover cultura sustentável;
-
-
-possibilitar integração futura com IoT e energias renováveis;
+●reduzir gastos operacionais,
+●estimular rotinas mais eficientes,
+●aumentar o conforto térmico,
+●promover cultura sustentável,
+●possibilitar integração futura com IoT e energias renováveis.
 
 
 ---
@@ -149,7 +118,7 @@ possibilitar integração futura com IoT e energias renováveis;
 ## Simulação dos Dados
 
 Todos os valores utilizados neste trabalho foram simulados com base em referências típicas de consumo divulgadas por distribuidoras como a Neoenergia e por estudos de eficiência energética em ambientes corporativos.
-A simulação foi feita seguindo 4 etapas.
+A simulação foi feita seguindo 4 etapas:
 
 ---
 
