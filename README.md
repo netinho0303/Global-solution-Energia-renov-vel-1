@@ -15,7 +15,7 @@
 
 ## Introdução
 
-1. Introdução
+ 
 Este trabalho tem como objetivo analisar o consumo energético de dois ambientes — um escritório comercial e um call center — e propor soluções voltadas para eficiência e sustentabilidade, alinhadas ao futuro do trabalho.
 Todos os dados utilizados neste estudo são simulados, incluindo valores de consumo, custos e distribuição por categoria de uso. A simulação foi realizada com base em padrões de consumo disponibilizados pela Neoenergia e referências típicas de ambientes corporativos.
 
@@ -25,7 +25,7 @@ Todos os dados utilizados neste estudo são simulados, incluindo valores de cons
 
 ## 2. Metodologia
 
-##2.1 Fonte e natureza dos dados
+## Fonte e natureza dos dados
 ●Todos os dados são simulados, incluindo:
 ○consumo total mensal (kWh)
 ○custo em R$
@@ -34,7 +34,7 @@ Todos os dados utilizados neste estudo são simulados, incluindo valores de cons
 
 A distribuição energética foi criada com base nas proporções médias apresentadas por distribuidoras como a Neoenergia, que disponibiliza percentuais típicos para ambientes corporativos.
 
-## 2.2 Processo de simulação
+## Processo de simulação
 1.Definiu-se um consumo total coerente com ambientes reais.
 2.Aplicou-se uma distribuição típica observada em escritórios e call centers.
 3.Simulou-se desperdícios a partir de:
@@ -47,7 +47,7 @@ Calculou-se o ganho econômico ao corrigir esses desperdícios.
 
 ##Dados do Estudo
 
-##3.1 Escritório Comercial (dados simulados)
+## Escritório Comercial (dados simulados)
 ●Consumo mensal total: 620 kWh
 ●Custo mensal estimado: R$ 463,60
 ●Distribuição simulada:
@@ -58,7 +58,7 @@ Calculou-se o ganho econômico ao corrigir esses desperdícios.
 Outros equipamentos: 15%
 
 
-##3.2 Call Center (dados simulados)
+##  Call Center (dados simulados)
 ●Consumo mensal total: 1.250 kWh
 ●Custo mensal estimado: R$ 935,00
 ●Distribuição simulada:
