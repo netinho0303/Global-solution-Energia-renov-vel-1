@@ -26,7 +26,7 @@ Todos os dados utilizados neste estudo são simulados, incluindo valores de cons
 ## 2. Metodologia
 
 ## Fonte e natureza dos dados
-●Todos os dados são simulados, incluindo:
+Todos os dados são simulados, incluindo:
 ○consumo total mensal (kWh)
 ○custo em R$
 ○demanda mensal
@@ -48,9 +48,9 @@ Calculou-se o ganho econômico ao corrigir esses desperdícios.
 ##Dados do Estudo
 
 ## Escritório Comercial (dados simulados)
-●Consumo mensal total: 620 kWh
-●Custo mensal estimado: R$ 463,60
-●Distribuição simulada:
+Consumo mensal total: 620 kWh
+Custo mensal estimado: R$ 463,60
+Distribuição simulada:
 
 ○Ar-condicionado: 40%
 ○Iluminação: 25%
@@ -59,9 +59,9 @@ Outros equipamentos: 15%
 
 
 ##  Call Center (dados simulados)
-●Consumo mensal total: 1.250 kWh
-●Custo mensal estimado: R$ 935,00
-●Distribuição simulada:
+Consumo mensal total: 1.250 kWh
+Custo mensal estimado: R$ 935,00
+Distribuição simulada:
 
 ○Ar-condicionado: 55%
 ○Computadores/headsets: 30%
@@ -70,8 +70,8 @@ Outros equipamentos: 15%
 ○Outros: 5%
 
 Identificação dos desperdícios (simulados):
-●Climatização muito abaixo da temperatura recomendada → 70 kWh/mês.
-●Computadores ligados fora do expediente → 25 kWh/mês.
+Climatização muito abaixo da temperatura recomendada → 70 kWh/mês.
+Computadores ligados fora do expediente → 25 kWh/mês.
 
 Total de desperdício identificado: 95 kWh/mês
 Representa 7,6% do consumo total.
@@ -91,14 +91,14 @@ Monitoramento contínuo
 
 ## Ganhos Ambientais e Econômicos (Simulados)
 Escritório Comercial
-●Redução de 50 kWh/mês → economia de R$ 37,40
-●Redução anual: 600 kWh
-●Equivalente a evitar ~55 kg de CO₂/ano
+Redução de 50 kWh/mês → economia de R$ 37,40
+Redução anual: 600 kWh
+Equivalente a evitar ~55 kg de CO₂/ano
 
 Call Center
-●Redução de 95 kWh/mês → economia de R$ 71,00
-●Redução anual: 1.140 kWh
-●Equivalente a evitar ~105 kg de CO₂/ano
+Redução de 95 kWh/mês → economia de R$ 71,00
+Redução anual: 1.140 kWh
+Equivalente a evitar ~105 kg de CO₂/ano
 
 
 ---
@@ -106,11 +106,11 @@ Call Center
 ## Conexão com o Futuro do Trabalho
 
 A solução melhora ambientes corporativos ao:
-●reduzir gastos operacionais,
-●estimular rotinas mais eficientes,
-●aumentar o conforto térmico,
-●promover cultura sustentável,
-●possibilitar integração futura com IoT e energias renováveis.
+reduzir gastos operacionais,
+estimular rotinas mais eficientes,
+aumentar o conforto térmico,
+promover cultura sustentável,
+possibilitar integração futura com IoT e energias renováveis.
 
 
 ---
